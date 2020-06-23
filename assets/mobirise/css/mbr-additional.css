@@ -1137,27 +1137,17 @@ section.lazy-placeholder:after {
 .cid-s2wJTMeLbX H1 {
   text-align: center;
 }
-.cid-s2ysppwNla {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-s2ysppwNla h1 {
-  color: #616161;
-}
-.cid-s2ysppwNla h2,
-.cid-s2ysppwNla h3,
-.cid-s2ysppwNla p {
-  color: #767676;
-}
-.cid-s2ysppwNla .mbr-section-subtitle {
-  font-style: italic;
-}
 .cid-s2yvf0aSbx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
 }
 .cid-s2yvf0aSbx P {
   color: #767676;
+}
+.cid-s2yvf0aSbx .mbr-text,
+.cid-s2yvf0aSbx .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-s2yEgVlOyV {
   padding-top: 90px;
